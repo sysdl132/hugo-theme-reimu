@@ -26,9 +26,9 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
-description: "少女祈祷中..."
-subtitle: "少女祈祷中..."
+author: sysdl132
+description: "Flixtrain 193"
+subtitle: "绿巴 - Flixtrain Vectron 193"
 
 banner: "images/banner.webp"
 # You can also write it in the form of the following url
@@ -63,7 +63,7 @@ open_graph:
 excerpt_link: Read More
 
 footer:
-  since: 2020 # 2020-current year
+  since: 2019 # 2020-current year
   powered: true
   count: true
   busuanzi: true
@@ -76,8 +76,8 @@ footer:
 sidebar: right
 
 social:
-  # email: mailto:xxx@gmail.com
-  # github: https://github.com/yourname
+  email: mailto:3412913920@qq.com
+  github: https://github.com/sysdl132
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
   # facebook: https://www.facebook.com/yourname
@@ -117,7 +117,7 @@ recent_posts_limits: 5
 
 anchor_icon: # default use '#' icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
 
-reimu_cursor: true
+reimu_cursor: false
 
 icon_font: 4552607_tq6stt6tcg
 
@@ -295,8 +295,8 @@ algolia_search:
 
 preloader:
   enable: true
-  text: 少女祈祷中...
-  icon: # default use inline svg for fast speed, you can use a image url, like '/images/taichi.png'
+  text: 'Die Seite wird geladen'
+  icon: "../images/taichi.png"# default use inline svg for fast speed, you can use a image url, like '/images/taichi.png'
 
 # see https://github.com/D-Sketon/aos.js
 animation:
@@ -333,7 +333,7 @@ firework:
       - shape: circle
         move: ["emit"]
         easing: easeOutExpo
-        colors: ["#ff5252", "#ff7c7c", "#ffafaf", "#ffd0d0"]
+        colors: ["#188527", "#1B912A", "#21B334", "#28D93F"]
         number: 20
         duration: [1200, 1800]
         shapeOptions:
@@ -342,7 +342,7 @@ firework:
       - shape: circle
         move: ["diffuse"]
         easing: easeOutExpo
-        colors: ["#ff0000"]
+        colors: ["#00FF1C"]
         number: 1
         duration: [1200, 1800]
         shapeOptions:
@@ -435,7 +435,7 @@ service_worker:
 
 # Experimental
 live2d:
-  enable: false
+  enable: true
 
 # https://github.com/CodeByZach/pace
 pace:

@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/D-Sketon/hugo-theme-reimu@main/images/screenshot.png"/>
+<!--<img src="https://cdn.jsdelivr.net/gh/D-Sketon/hugo-theme-reimu@main/images/screenshot.png"/>
 <div align = center>
   <h1>hugo-theme-reimu</h1>
   <img alt="version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2FD-Sketon%2Fhugo-theme-reimu%2Fraw%2Fmain%2Fpackage.json&query=%24.version&label=version">
@@ -783,3 +783,5 @@ webcache: https://npm.webcache.cn/ # 仅针对npm加速
 ## 许可
 
 MIT
+-->
+# Website theme
